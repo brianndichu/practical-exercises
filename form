@@ -17,4 +17,32 @@
 
 <p>circle the type(s) of music that you prefer: &nbsp; dont buy music &nbsp;online &nbsp;large retail store &bsp; small music store<\P>
 
-<p>circle your favourite radio station: &nbsp;kiss 100.3 &nbsp; x-fm 105.5; 
+<p>circle your favourite radio station: &nbsp;kiss 100.3 &nbsp; x-fm 105.5; </p>
+
+<p> Name station not listed:___________________</p>
+
+<p> what else can you tell us about your music references?_______________________________</p>
+
+<br/> select the type(s) of music that your prefer:
+<br/><input name="music type" type="checkbox" value="lingala"/> lingala &nbsp;
+<input name="music type" type="checkbox" value="local"/>local &nbsp;
+<input name= "music type" type="checkbox" value="pop" />pop &nbsp;
+<input name="music type" type="checkbox" value="rap" />rap &nbsp;
+<input name="music type" type="checkbox" value="rock" />rock
+
+<p> where do you make most of your music purchases:
+
+<br/><input name="purchases" type="radio" value="none" /> dont buy music &nbsp;
+<input name="purchases" type="radio" value= "i tunes" />i tunes &nbsp;
+<input name= "purchases" type= "radio" value= "amazon" /> amazon &nbsp;
+<input name= "purchases" type= "radio" value= "online" /> other online stores &nbsp;
+<input name= "purchases" type= "radio" value= "retail" /> retail store &nbsp;
+</p>
+
+<p> favourite radio station
+<select name= "station">
+<option> x-fm</option>
+<option> kiss 100</option>
+<option> classic 105</option>
+<option> 2 fm</option>
+</select></p>
