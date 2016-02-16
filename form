@@ -2,9 +2,11 @@
 <html>
 <body>
 
+<header>
+
 <form method="post" action= "mailto:bluwav@isp.com">
 
-<header>
+
 
 <img style= "margin-left: 250px" src="bluwavlogo.jpg" width="410" height= "139" alt="blu wav logo"/>
 </header>
